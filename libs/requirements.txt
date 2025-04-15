@@ -1,0 +1,8 @@
+labelimg
+lxml
+PyQt4
+PyQt5
+PyQt5_sip
+pytest
+shapes
+sip
